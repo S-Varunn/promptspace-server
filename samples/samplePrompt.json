@@ -1,0 +1,21 @@
+{
+    "prompt": "Summarize Rick and Morty Tv show using new generation slangs.",
+    "temperature": 0.7, 
+    "max_tokens": 300, 
+    "top_p": 1.0, 
+    "frequency_penalty": 0.0, 
+    "presence_penalty": 0.0,
+    "stop_sequences": ["\n"], 
+    "model": "text-davinci-003",
+    "context": "This is a sample text generation sample.", 
+    "user_id": "S-Varunn",
+    "output_format": "text",
+    "examples": [
+      {
+        "input": "",
+        "output": ""
+      }
+    ], 
+    "time_limit": 10,
+    "language": "en"
+  }
